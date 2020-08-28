@@ -19,7 +19,7 @@ if q>4:
     print('wrong input')
     exit()
 
-#Taking inputs from user
+#Taking inputs from user and if else statements repeated till use enter 'n'
 repeat='y'
 while repeat=='y':
     a=int(input('first number '))
