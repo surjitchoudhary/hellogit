@@ -59,3 +59,9 @@ print(str1.upper())
 
 # If You Want To Make Your String Replace A Letter With Another Letter.
 print(str1.replace('is','are'))
+
+
+# ENCODE FUNCTION
+print(str1.encode())
+# Join()
+print('#'.join(str1))
